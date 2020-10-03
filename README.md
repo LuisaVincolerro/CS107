@@ -1,2 +1,2 @@
 # CS107
-Introdução ao Pensamento Computacional
+Int ao Pensamento Computacional
