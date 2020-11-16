@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/CuboBird.unity
+- path: Assets/Scenes/JogoDaRampa.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

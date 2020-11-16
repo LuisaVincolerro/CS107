@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EF424F85-DB2B-1EEB-86BB-8A48CC31C690}</ProjectGuid>
+    <ProjectGuid>{936F8B6C-D6EB-8CB6-7D88-0168F2D5AC5A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -597,34 +597,34 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisões/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Pedro/Documents/LUISA - UNICAMP/CS107/#2 - Jogos com Colisoes/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{6C9A997E-EFCE-5BF2-3910-491B3F0B14DF}</Project>
+      <Project>{4D73C63B-121C-4F18-086D-F8A7BB349698}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{FC2EE9F4-1A7F-2529-904E-974E30A0ED0A}</Project>
+      <Project>{5229E4E8-83F4-3DB9-3F07-D599D61B0E8E}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
   </ItemGroup>

@@ -13,7 +13,7 @@ public class CotroleDoJogador : MonoBehaviour
     bool EstouVerde = false;
 
     float Tempo = 0;
-    float TempoLimite = 12/10;
+    float TempoLimite = 15/10;
 
     Renderer r;
 
